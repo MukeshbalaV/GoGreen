@@ -59,4 +59,3 @@ Together, let's make a greener future! 🌍💚
 
 ---
 
-Feel free to modify this README file to better fit your project's specifics and add more details as necessary.
