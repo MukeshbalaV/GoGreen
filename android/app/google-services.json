@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324355466000",
+    "project_id": "gogreen-13109",
+    "storage_bucket": "gogreen-13109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324355466000:android:8bf0da254e0e7e3340fb95",
+        "android_client_info": {
+          "package_name": "com.mycompany.gogreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1bxrhpB0kpD5UuYlOyYP8y6awdNMKBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
